@@ -11,5 +11,5 @@ Tenho focado meus estudos em desenvolvimento de software e criação de soluçõ
 </div>
 
 ## Como me Encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/EnzoNascimentodeAmorim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/EnzoNamorim)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Enzonamorim7@gmail.com)
